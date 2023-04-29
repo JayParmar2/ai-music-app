@@ -1,0 +1,39 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 5px grey;
+}
+
+.NOTE {
+    font-size: 15px;
+    color: red;
+    font-family: cursive;
+}
+
+body {
+    background-size: cover;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: wheat;
+    color: black;
+    line-height: 2;
+    font-size: 20px;
+}
+
+.status {
+    font-size: 20px;
+}
